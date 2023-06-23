@@ -4,11 +4,14 @@ package com.zero.zerolivewallpaper;
 public class Constants {
 
     // System
-    public final static String URL_API = "https://github.com/lucasasselli/zero/blob/master/wallpapers/";
+//    public final static String URL_API = "https://github.com/lucasasselli/zero/blob/master/wallpapers/";
+    public final static String URL_API = "https://github.com/hardikJoshi123/DemoParallax/tree/main/wallpapers/";
     public final static String URL_API2 = "jaainik";
     public final static String PACKAGE_NAME = "com.zero.zerolivewallpaper";
     public final static String SERVICE_NAME = PACKAGE_NAME + ".wallpaper.MyWallpaperService";
 
+//getCatalogUrl    https://github.com/hardikJoshi123/DemoParallax/tree/main/wallpapers/catalog.json?raw=true
+//                   https://github.com/lucasasselli/zero/blob/master/wallpapers/catalog.json?raw=true
     // Parallax
     public final static double SENSITIVITY_MIN = 0.1;
     public final static double SENSITIVITY_MAX = 0.5;
