@@ -1,0 +1,141 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zero.zerolivewallpaper"
+4    android:versionCode="27"
+5    android:versionName="2.0.10" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml
+10
+11    <uses-feature
+11-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:5:5-7:35
+12        android:name="android.software.live_wallpaper"
+12-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:6:9-55
+13        android:required="true" />
+13-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:7:9-32
+14    <uses-feature
+14-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:8:5-10:35
+15        android:glEsVersion="0x00020000"
+15-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:9:9-41
+16        android:required="true" />
+16-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:10:9-32
+17
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:12:5-67
+18-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:13:5-79
+19-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:14:5-68
+20-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:14:22-65
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:15:5-80
+21-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:15:22-77
+22
+23    <supports-gl-texture android:name="GL_OES_compressed_ETC1_RGB8_texture" />
+23-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:17:5-79
+23-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:17:26-76
+24    <supports-gl-texture android:name="GL_OES_compressed_paletted_texture" />
+24-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:18:5-78
+24-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:18:26-75
+25
+26    <application
+26-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:20:5-67:19
+27        android:allowBackup="true"
+27-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:21:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.5.0] /Users/iappstackdeveloper/.gradle/caches/transforms-2/files-2.1/1602505273d43f41d2f450ba7fa6ad4f/core-1.5.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:fullBackupContent="@xml/backup_descriptor"
+30-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:22:9-59
+31        android:hardwareAccelerated="true"
+31-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:23:9-43
+32        android:icon="@mipmap/ic_launcher"
+32-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:24:9-43
+33        android:label="@string/app_name"
+33-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:25:9-41
+34        android:largeHeap="true"
+34-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:26:9-33
+35        android:supportsRtl="true"
+35-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:27:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Zero.Base" >
+37-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:28:9-41
+38        <activity android:name="com.zero.zerolivewallpaper.MainActivity" >
+38-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:29:9-35:20
+38-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:29:19-73
+39            <intent-filter>
+39-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:30:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:31:17-69
+40-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:31:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:33:17-77
+42-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:36:9-40:84
+46            android:name="com.zero.zerolivewallpaper.SettingsActivity"
+46-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:37:13-71
+47            android:exported="true"
+47-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:38:13-36
+48            android:label="@string/settings_title"
+48-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:39:13-51
+49            android:parentActivityName="com.zero.zerolivewallpaper.MainActivity" />
+49-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:40:13-81
+50
+51        <service
+51-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:42:9-54:19
+52            android:name="com.zero.zerolivewallpaper.wallpaper.MyWallpaperService"
+52-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:43:13-83
+53            android:enabled="true"
+53-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:44:13-35
+54            android:label="Zero"
+54-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:45:13-33
+55            android:permission="android.permission.BIND_WALLPAPER" >
+55-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:46:13-67
+56            <intent-filter>
+56-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:47:13-49:29
+57                <action android:name="android.service.wallpaper.WallpaperService" />
+57-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:48:17-85
+57-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:48:25-82
+58            </intent-filter>
+59
+60            <meta-data
+60-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:51:13-53:53
+61                android:name="android.service.wallpaper"
+61-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:52:17-57
+62                android:resource="@xml/wallpaper" />
+62-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:53:17-50
+63        </service>
+64
+65        <activity
+65-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:56:9-59:84
+66            android:name="com.zero.zerolivewallpaper.SetActivity"
+66-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:57:13-66
+67            android:label="@string/set_title"
+67-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:58:13-46
+68            android:parentActivityName="com.zero.zerolivewallpaper.MainActivity" />
+68-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:59:13-81
+69        <activity
+69-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:60:9-62:55
+70            android:name="com.zero.zerolivewallpaper.PreviewActivity"
+70-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:61:13-70
+71            android:theme="@style/Zero.NoActionBar" />
+71-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:62:13-52
+72
+73        <service
+73-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:64:9-66:38
+74            android:name="com.zero.zerolivewallpaper.services.SyncManager"
+74-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:65:13-75
+75            android:enabled="true" />
+75-->/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/AndroidManifest.xml:66:13-35
+76    </application>
+77
+78</manifest>

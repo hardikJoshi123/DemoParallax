@@ -1,0 +1,4 @@
+#Fri Jun 23 15:15:42 IST 2023
+base.0=/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

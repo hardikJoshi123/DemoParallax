@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoParallax.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoParallax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.iml" filepath="$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.main.iml" filepath="$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/zero/DemoParallax.zero.unitTest.iml" />
+    </modules>
+  </component>
+</project>

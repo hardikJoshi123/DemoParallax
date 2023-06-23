@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_link_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_link_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_link_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_link_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_check_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_download_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_download_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_check_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_zero_symbol.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_stat_zero_symbol.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_link_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_link_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout_info_view.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout/info_view.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-nodpi_gallery_preview.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-nodpi/gallery_preview.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout_activity_preview.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout/activity_preview.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_offline.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_offline.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-nodpi_empty.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-nodpi/empty.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sort_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_check_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_check_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/xml_wallpaper.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/xml/wallpaper.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_link_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_link_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_offline.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_offline.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_link_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_link_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout_catalog_cell.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout/catalog_cell.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_zero_symbol.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_stat_zero_symbol.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_download_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_download_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_sort_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_delete_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout_dialog_slider.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout/dialog_slider.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-nodpi_fallback.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-nodpi/fallback.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_offline.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_offline.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_delete_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_link_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_link_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_offline.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_offline.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_link_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_link_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_download_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_download_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_link_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_link_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_check_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_offline.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_offline.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stat_zero_symbol.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxhdpi/ic_stat_zero_symbol.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_stat_zero_symbol.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_stat_zero_symbol.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout_activity_set.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout/activity_set.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_link_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_link_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/menu_set_menu.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/menu/set_menu.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_link_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_link_white_24dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_zero_symbol.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-hdpi/ic_stat_zero_symbol.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xhdpi_ic_download_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xhdpi/ic_download_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/layout-land_activity_preview.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/layout-land/activity_preview.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/xml_backup_descriptor.xml.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/xml/backup_descriptor.xml"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_download_white_36dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-xxxhdpi/ic_download_white_36dp.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/build/intermediates/res/merged/debug/drawable-mdpi_ic_sort_white_24dp.png.flat",
+        "source": "/Users/iappstackdeveloper/Downloads/zero-master-5/zero/src/main/res/drawable-mdpi/ic_sort_white_24dp.png"
+    }
+]
